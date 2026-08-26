@@ -4,3 +4,5 @@
 
 - [ ] Use strong passwords
 - [ ] Enable two-factor authentication
+- [ ] Usage of symbols is mandatory
+- [ ] Always start with a capital letter
